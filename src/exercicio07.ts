@@ -1,3 +1,9 @@
+/*
+ Exercício 7: Declare três variáveis e atribua valores numéricos a elas. 
+ Use operadores de comparação para comparar os valores entre as variáveis.
+ Imprima os resultados.
+*/ 
+
 let x: number = 10;
 let y: number = 20;
 let z: number = 10;
